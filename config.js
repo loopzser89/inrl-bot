@@ -5,7 +5,7 @@ module.exports = {
     VERSION: 'V 1.0.0', // bot version
     SESSION_ID: process.env.SESSION_ID || 'inrl~XliCv+x5Im4iBkOIybI3uz40oe8mYO96xhLU',//enter your ssid to run bot
     MONGO_URL : process.env.MONGODB_URI,//mongo url;
-    PASSWORD: process.env.PASSWORD || '', //set passworkd to use 18+ plugins pss = inrl-bot~md
+    PASSWORD: process.env.PASSWORD || 'LOOPZ-BOT-MD', //set passworkd to use 18+ plugins pss = inrl-bot~md
     REACT : process.env.REACT || 'false', //to react  almsg automaticaly
     WARNCOUND : process.env.WARNCOUND || "5", // to kick a person by war cound
     GROUP_CHAT : process.env.GROUP_CHAT || 'false', // to set chat bot on grp
